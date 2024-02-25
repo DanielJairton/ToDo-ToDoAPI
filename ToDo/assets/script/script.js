@@ -9,7 +9,7 @@ async function carregarDados() {
     }
     else{
         for (let index = 0; index < dados.length; index++) {
-            //console.log(dados[index]);
+            console.log(dados[index]);
             let li = document.createElement('LI');
             let tarefa = dados[index].name;
             let caixaTarefa = document.createTextNode(tarefa);

@@ -11,7 +11,4 @@ VALUES
 ('vender sapatos', 1),
 ('regar as plantas', 0),
 ('tomar ccomprimido', 1),
-('ir a festa', 1)
-;
-
-
+('ir a festa', 1);

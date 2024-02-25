@@ -1,0 +1,23 @@
+Tutorial
+
+Abra uma pasta no VS Code para pasta TodoApi
+
+Mude a connectionString para corresponder o banco de dados que vai usar
+
+No VS Code use esses comandos no terminal
+	- dotnet ef migrations add NomeDaMigration1
+	- dotnet ef database update
+
+Execute o programa com Ctrl+F5
+---------------------------------------
+
+Abra o SQLServer e o arquivo populando db_todoAPI.sql para popular o banco de dados
+
+----------------------------------------
+
+Abra uma nova janela no VS Code na pasta ToDo
+
+Mude a request url da função fetch para gerada pela Api
+Exemplo: https://localhost:7057/api/TodoItems
+
+execute o Index.html com o Go Live
