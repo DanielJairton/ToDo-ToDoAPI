@@ -1,0 +1,110 @@
+Todos os items
+Request url: https://localhost:7057/api/TodoItems
+
+[
+  {
+    "id": 1,
+    "name": "lavar pratos",
+    "isComplete": true
+  },
+  {
+    "id": 3,
+    "name": "cozinhar feijão",
+    "isComplete": true
+  },
+  {
+    "id": 4,
+    "name": "passear com o cachorro",
+    "isComplete": false
+  },
+  {
+    "id": 5,
+    "name": "marcar consulta",
+    "isComplete": true
+  },
+  {
+    "id": 6,
+    "name": "limpar a sala",
+    "isComplete": false
+  },
+  {
+    "id": 7,
+    "name": "comprar macarrão",
+    "isComplete": false
+  },
+  {
+    "id": 8,
+    "name": "comprar jornal",
+    "isComplete": false
+  },
+  {
+    "id": 9,
+    "name": "vender sapatos",
+    "isComplete": true
+  },
+  {
+    "id": 10,
+    "name": "regar as plantas",
+    "isComplete": false
+  },
+  {
+    "id": 11,
+    "name": "tomar ccomprimido",
+    "isComplete": true
+  },
+  {
+    "id": 12,
+    "name": "ir a festa",
+    "isComplete": true
+  },
+  {
+    "id": 13,
+    "name": "cozinhar feijão",
+    "isComplete": true
+  },
+  {
+    "id": 14,
+    "name": "passear com o cachorro",
+    "isComplete": false
+  },
+  {
+    "id": 15,
+    "name": "marcar consulta",
+    "isComplete": true
+  },
+  {
+    "id": 16,
+    "name": "limpar a sala",
+    "isComplete": false
+  },
+  {
+    "id": 17,
+    "name": "comprar macarrão",
+    "isComplete": false
+  },
+  {
+    "id": 18,
+    "name": "comprar jornal",
+    "isComplete": false
+  },
+  {
+    "id": 19,
+    "name": "vender sapatos",
+    "isComplete": true
+  },
+  {
+    "id": 20,
+    "name": "regar as plantas",
+    "isComplete": false
+  },
+  {
+    "id": 21,
+    "name": "tomar ccomprimido",
+    "isComplete": true
+  },
+  {
+    "id": 22,
+    "name": "ir a festa",
+    "isComplete": true
+  }
+]

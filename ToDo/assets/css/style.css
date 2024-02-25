@@ -1,0 +1,44 @@
+.checked {
+    text-decoration: line-through;
+}
+
+#titulo{
+  margin-top: 1vh;
+}
+
+#task{
+  width: 189px;
+}
+
+.box-maior{
+  justify-content: center;
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
+  width: 95vw;
+  /* border: 2px solid black; */
+}
+
+.box-medio{
+  margin-top: 30px;
+}
+
+.lista{
+  padding: 15px;
+}
+
+.btn-remover{
+  border-radius: 100%;
+  padding: 2px;
+  text-align: center;
+  font-size: smaller;
+  font-size: 9px;
+  overflow: hidden;
+  height: auto;
+  width: 20px;
+}
+
+@media screen and (max-width: 800px){
+  #task{
+    width: 150px;
+  }
+}
